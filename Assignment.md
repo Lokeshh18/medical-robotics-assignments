@@ -4,8 +4,7 @@
 > Pls upload the PDF in Google form link
 
 # 2 Case Study Documentation
-> Submit the Notion page link as the final submission
-> [Notion page link]
+> [Notion page link](https://polite-nose-258.notion.site/case-study-mr?source=copy_link)
 
 # 3 Poster Presentation
 > Pls upload the Poster in Google form link
@@ -14,8 +13,7 @@
 > Pls upload the Project Report PDF in Google form link
 
 # 5 Project Report in Claude Artifact
-> Submit the Claude Artifact URL link
-> [Claude Artifact URL link]
+> [Claude Artifact URL link](https://claude.ai/public/artifacts/7ac19ade-71fd-4016-9f47-e129d5b3eaa8)
 
 # 6 Project Explanation Video
 > Pls upload the Video in Google form link
